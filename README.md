@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Istvan Oliva](LinkDoSeuLinkedinAqui) enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Istvan Oliva](https://github.com/Istvanoliva) enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -10,37 +10,37 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 1: Introdução - Unix & Shell
 
-- [ ] 1.3: Fundamentos do Desenvolvimento Web
-- [ ] 1.3: Introdução - Unix & Shell
-- [ ] 1-3: Unix & Shell- Part 1
-- [ ] 1-4: Unix & Shell- Part 2
+- [x] 1.3: Fundamentos do Desenvolvimento Web
+- [x] 1.3: Introdução - Unix & Shell
+- [x] 1-3: Unix & Shell- Part 1
+- [x] 1-4: Unix & Shell- Part 2
 
 ##### Bloco 2: Git & GitHub
 
-- [ ] 2-1: O que é e para que serve?
-- [ ] 2-2: Entendendo os comandos
-- [ ] 2-3: Internet - Entendendo como ela funciona
+- [x] 2-1: O que é e para que serve?
+- [x] 2-2: Entendendo os comandos
+- [x] 2-3: Internet - Entendendo como ela funciona
 
 ##### Bloco 3: Introdução - HTML & CSS
 
-- [ ] 3-1: HTML & CSS - Estruturas de página
-- [ ] 3-2: HTML & CSS - Primeiros passos em CSS
-- [ ] 3-3: HTML & CSS - Seletores e posicionamento
-- [ ] 3-4: HTML Semântico
-- [ ] 3-5: [Projeto - HTML & CSS]()
+- [x] 3-1: HTML & CSS - Estruturas de página
+- [x] 3-2: HTML & CSS - Primeiros passos em CSS
+- [x] 3-3: HTML & CSS - Seletores e posicionamento
+- [x] 3-4: HTML Semântico
+- [x] 3-5: [Projeto - HTML & CSS]()
 
 ##### Bloco 4: Introdução - JavaScript
 
-- [ ] 4-1: JavaScript - Primeiros passos
-- [ ] 4-2: JavaScript - Array e loop For
-- [ ] 4-3: JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4-4: JavaScript - Objetos e funções
-- [ ] 4-5: [Projeto - Playground Functions]()
+- [x] 4-1: JavaScript - Primeiros passos
+- [x] 4-2: JavaScript - Array e loop For
+- [x] 4-3: JavaScript - Lógica de Programação e Algoritmos
+- [x] 4-4: JavaScript - Objetos e funções
+- [x] 4-5: [Projeto - Playground Functions]()
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
-- [ ] 5-1: JavaScript - DOM e seletores
-- [ ] 5-2: JavaScript - Trabalhando com elementos
+- [x] 5-1: JavaScript - DOM e seletores
+- [x] 5-2: JavaScript - Trabalhando com elementos
 - [ ] 5-3: JavaScript - Eventos
 - [ ] 5-4: JavaScript - Web Storage
 - [ ] 5-5: [Projeto - Meme Generator]()
