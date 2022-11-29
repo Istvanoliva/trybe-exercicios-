@@ -41,13 +41,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] _[Project - Car Shop](https://github.com/istvanoliva/car-shop)_
 
 ## Ciência da Computação :hourglass_flowing_sand:
-
-- [x] _[Project - Jobs insights]()_
-- [x] _[Project - Inventory report]()_
-- [ ] _[Project - Tech News]()_
-- [ ] _[Project - Algorithms]()_
-- [ ] _[Project - Trybe is not Google]()_
-- [ ] _[Project - Restaurant Orders]()_
+ 
+- [x] _[Project - Jobs insights]()_ :hourglass_flowing_sand:
+- [x] _[Project - Inventory report]()_ :hourglass_flowing_sand:
+- [ ] _[Project - Tech News]()_ :hourglass_flowing_sand:
+- [ ] _[Project - Algorithms]()_ :hourglass_flowing_sand:
+- [ ] _[Project - Trybe is not Google]()_ :hourglass_flowing_sand:
+- [ ] _[Project - Restaurant Orders]()_ :hourglass_flowing_sand:
 
 _**Nota:**_ Alguns dos projetos deste repositório não possuem estilização/CSS pois o objetivo era a construção da parte lógica e funcional da aplicação.
 
