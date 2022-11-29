@@ -42,7 +42,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-## [...]
+- [x] _[Project - Jobs insights]()_
+- [x] _[Project - Inventory report]()_
+- [ ] _[Project - Tech News]()_
+- [ ] _[Project - Algorithms]()_
+- [ ] _[Project - Trybe is not Google]()_
+- [ ] _[Project - Restaurant Orders]()_
 
 _**Nota:**_ Alguns dos projetos deste repositório não possuem estilização/CSS pois o objetivo era a construção da parte lógica e funcional da aplicação.
 
