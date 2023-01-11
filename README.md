@@ -42,12 +42,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Ciência da Computação :hourglass_flowing_sand:
  
-- [x] _[Project - Jobs insights]()_ :hourglass_flowing_sand:
-- [x] _[Project - Inventory report]()_ :hourglass_flowing_sand:
-- [ ] _[Project - Tech News]()_ :hourglass_flowing_sand:
-- [ ] _[Project - Algorithms]()_ :hourglass_flowing_sand:
-- [ ] _[Project - Trybe is not Google]()_ :hourglass_flowing_sand:
-- [ ] _[Project - Restaurant Orders]()_ :hourglass_flowing_sand:
+- [x] _[Project - Jobs insights](https://github.com/Istvanoliva/jobs-insights)_
+- [x] _[Project - Inventory report](https://github.com/Istvanoliva/inventory-report)_
+- [x] _[Project - Tech News](https://github.com/Istvanoliva/tech-news)_
+- [x] _[Project - Algorithms](https://github.com/Istvanoliva/algorithms)_
+- [x] _[Project - Trybe is not Google](https://github.com/Istvanoliva/ting)_
+- [x] _[Project - Restaurant Orders](https://github.com/Istvanoliva/restaurant-orders-py)_
 
 _**Nota:**_ Alguns dos projetos deste repositório não possuem estilização/CSS pois o objetivo era a construção da parte lógica e funcional da aplicação.
 
