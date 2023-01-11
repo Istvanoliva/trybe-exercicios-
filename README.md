@@ -40,7 +40,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] _[Project - Commerce](https://github.com/istvanoliva/mongoDB-queries)_
 - [x] _[Project - Car Shop](https://github.com/istvanoliva/car-shop)_
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação :heavy_check_mark:
  
 - [x] _[Project - Jobs insights](https://github.com/Istvanoliva/jobs-insights)_
 - [x] _[Project - Inventory report](https://github.com/Istvanoliva/inventory-report)_
