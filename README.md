@@ -4,15 +4,6 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :heavy_check_mark:
-
-- [x] _[Project - Pixels Art](https://github.com/istvanoliva/pixels-art)_
-- [x] _[Project - To Do List](https://github.com/istvanoliva/todo-list)_
-- [x] _[Project - Trybewarts](https://github.com/istvanoliva/trybewarts)_
-- [x] _[Project - JavaScript Unit Tests](https://github.com/istvanoliva/unit-tests)_
-- [x] _[Project - Zoo functions](https://github.com/istvanoliva/zoo-functions)_
-- [x] _[Project - Shopping Cart](https://github.com/istvanoliva/shopping-cart)_
-
 ## Desenvolvimento Front-end :heavy_check_mark:
 
 - [x] _[Project - Tryunfo](https://github.com/istvanoliva/tryunfo)_
